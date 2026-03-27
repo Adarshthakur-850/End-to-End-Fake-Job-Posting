@@ -14,6 +14,9 @@ This project presents a complete **end-to-end machine learning pipeline** that d
 
 The system is designed to be scalable, modular, and deployable, making it suitable for real-world applications such as job portals, recruitment platforms, and fraud detection systems.
 
+<img width="1000" height="500" alt="wordcloud_real" src="https://github.com/user-attachments/assets/e3c8d788-73ff-45da-9a00-838d364fb364" />
+
+
 ---
 
 ## 2. Problem Statement
