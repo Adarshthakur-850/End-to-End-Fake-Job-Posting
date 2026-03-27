@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fake Job Posting Detection
 
 Web application to detect fraudulent job postings using machine learning.
@@ -33,3 +34,7 @@ Web application to detect fraudulent job postings using machine learning.
 docker build -t fake-job-detector .
 docker run -p 8000:8000 fake-job-detector
 ```
+=======
+# End-to-End-Fake-Job-Posting
+ml project
+>>>>>>> 48e85e246ea366fab5e84463b52fb22057f9c616
