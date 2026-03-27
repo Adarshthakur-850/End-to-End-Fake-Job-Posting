@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fake Job Detector</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Fake Job Posting Detector</h1>
+        <p>Paste the job description below to check if it's legitimate or fraudulent.</p>
+
+        <textarea id="jobText" placeholder="Paste job details here (Title, Description, Requirements)..."></textarea>
+        <button onclick="predictJob()">Analyze</button>
+
+        <div id="result" class="result"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
